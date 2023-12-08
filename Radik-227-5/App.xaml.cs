@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace kochergin_225_5
+namespace Radik_227_5
 {
     /// <summary>
     /// Interaction logic for App.xaml
